@@ -1,0 +1,45 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+/src/main/resources/public/service-worker.js
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.mvn
+.idea
+*.iws
+*.iml
+*.ipr
+!**/src/main/resources/templates/theme/Grace/
+!**/src/main/resources/templates/theme/Pure/
+!**/src/main/resources/templates/theme/Social/
+!**/src/main/resources/public/ads.txt
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+hexo-boot-plugin/hexo-boot-plugin-statistic/
+hexo-boot-plugin/hexo-boot-plugin-storage/
+hexo-boot-plugin/hexo-boot-plugin-terminal/
+hexo-boot-plugin/hexo-boot-plugin-feed/
+hexo-boot-plugin/hexo-boot-plugin-sitemap/
